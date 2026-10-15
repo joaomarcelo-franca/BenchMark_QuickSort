@@ -1,0 +1,31 @@
+=== SISTEMA OPERACIONAL ===
+NAME="Fedora Linux"
+VERSION="44 (Workstation Edition)"
+Kernel: 7.2.7-200.fc44.x86_64
+
+=== VIRTUALIZAÇÃO ===
+none
+             Chassis: laptop 💻
+     Hardware Vendor: ASUSTeK COMPUTER INC.
+      Hardware Model: ASUS Vivobook S 14 S5406SA_S5406SA
+    Hardware Version: 1.0
+
+=== CPU ===
+CPU(s):                                  8
+Model name:                              Intel(R) Core(TM) Ultra 7 256V
+Thread(s) per core:                      1
+Core(s) per socket:                      8
+Socket(s):                               1
+CPU(s) scaling MHz:                      44%
+CPU max MHz:                             4800,0000
+CPU min MHz:                             400,0000
+
+=== MEMÓRIA ===
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       5,3Gi       6,6Gi       204Mi       3,4Gi       9,8Gi
+Swap:          8,0Gi          0B       8,0Gi
+
+=== DISCO ===
+NAME      SIZE TYPE MODEL
+zram0       8G disk 
+nvme0n1 476,9G disk MTFDKBA512QGN-1BN1AABGA
